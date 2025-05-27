@@ -1,0 +1,20 @@
+ATIVIDADE 01
+
+- Mova a garra para <LÂMPADA VELHA>
+- Fecha a garra
+- Gire garra 180º no sentido horário
+- Gire garra 180º no sentido horário
+- Gire garra 180º no sentido horário
+- Mova a garra para <MESA>
+- Abra a garra
+- Mova a garra para <LÂMPADA NOVA>
+- Fechar a garra
+- Mova a garra para <BOCAL DA LÂMPADA>
+- Gire garra 180º no sentido anti-horário
+- Gire garra 180º no sentido anti-horário
+- Gire garra 180º no sentido anti-horário 
+- Abra a garra
+
+========================================================================================================
+
+	
