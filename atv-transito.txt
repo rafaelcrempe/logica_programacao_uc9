@@ -1,0 +1,17 @@
+ATIVIDADE 02
+
+- VERIFICAR estado do <SEMÁFORO DE PEDESTRES> 
+	- Se <SEMÁFORO DE PEDESTRES> estiver vermelho: AGUARDAR
+	- Se <SEMÁFORO DE PEDESTRES> estiver verde: ATRAVESSE
+
+- VERIFICAR <Aproximação de Carros>
+	- Se <Aproximação de Carros> for verdadeira: AGUARDAR
+	- Se <Aproximação de Carros> for falso: ATRAVESSE
+
+
+- VERIFICAR <Aproximação de Carros>
+	- Se <Aproximação de Carros> for verdadeira: AGUARDAR
+	- Se <Aproximação de Carros> for falso: ATRAVESSE
+
+- VERIFICAR <Posição da Pessoa>
+	- Se <Posição da Pessoa = B> for verdadeiro: : ENCERRAR
