@@ -1,35 +1,36 @@
 programa {
-
-inclua biblioteca Calendario --> cal 
+  inclua biblioteca Calendario 
 
   funcao inicio() {
 
-inteiro diaNasc, mesNasc, anoNasc, idade
-inteiro diaAtual = cal.dia_mes_atual()
-inteiro mesAtual = cal.mes_atual()
-inteiro anoAtual = cal.ano_atual()
+    inteiro idade, anonasc, mesnasc, dianasc, anoatual, mesatual, diaatual
 
-escreva("Digite o dia do seu nascimento: ")
-leia(diaNasc)
+    escreva("Informe o ano do nascimento: ")
+		leia(anonasc)
+		escreva("Informe o mês do nascimento: ")
+		leia(mesnasc)
+		escreva("Informe o dia do nascimento: ")
+		leia(dianasc)
+    anoatual = Calendario.ano_atual()
+    mesatual = Calendario.mes_atual()
+    diaatual = Calendario.dia_mes_atual()
 
-escreva("Digite o mês do seu nascimento: ")
-leia(mesNasc)
+    idade = anoatual - anonasc
 
-escreva("Digite o ano do seu nascimento: ")
-leia(anoNasc)
+    se (mesatual < mesnasc)
+    {
+      idade = idade - 1
+    }
 
-idade = anoAtual - anoNasc
+    se (mesatual == mesnasc)
+    {
+      se (diaatual > dianasc)
+      {
+        idade = idade - 1
+      }
+    }
 
-
-se(mesAtual > mesNasc){
-  escreva("Sua idade é: ", idade)
-} senao se (mesAtual < mesNasc){
-  escreva("Sua idade é: ", idade - 1)
-} senao se (mesAtual == mesNasc e diaAtual <= diaNasc){
-  escreva("Sua idade é: ", idade)
-} senao {
-  escreva("Sua idade é: ", idade - 1)
-}
-
+    escreva("Você tem ", idade, " anos")
+    
   }
 }
