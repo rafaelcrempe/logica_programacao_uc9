@@ -3,18 +3,25 @@ programa {
 inclua biblioteca Util --> util
 
   funcao inicio() {
-    
-inteiro vetor [60]
+    inteiro numero_jogos
 
-para (inteiro posicao = 0; posicao < 6; posicao++) {
-  vetor[posicao] = util.sorteia(1,60)
-}
+    escreva("Digite a quantidade de jogos desejada: ")
+    leia(numero_jogos)
 
-escreva("Números sorteados:\n")
+    const inteiro JOGO = numero_jogos
+    const inteiro NUMEROS = 6
+    inteiro matriz[JOGO][NUMEROS]
 
-para(inteiro posicao = 0;posicao < 6;posicao++) {
-  escreva("[",vetor[posicao], "] ")
-}
+  para(inteiro linha = 0;linha < JOGO;linha++)
+  {
+    para(inteiro coluna = 0;coluna < NUMEROS;coluna++){
+      matriz[linha][coluna] = util.sorteia(1,60)
+    escreva("[", matriz[linha][coluna],"]")
+
+    }
+
+    escreva("\n")
+  }
 
   }
 }
