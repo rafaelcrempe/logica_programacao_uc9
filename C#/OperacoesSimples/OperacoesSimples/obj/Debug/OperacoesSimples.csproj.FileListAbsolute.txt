@@ -1,0 +1,11 @@
+D:\Visual Studio\OperacoesSimples\OperacoesSimples\obj\Debug\OperacoesSimples.csproj.AssemblyReference.cache
+D:\Visual Studio\OperacoesSimples\OperacoesSimples\obj\Debug\OperacoesSimples.Form1.resources
+D:\Visual Studio\OperacoesSimples\OperacoesSimples\obj\Debug\OperacoesSimples.Properties.Resources.resources
+D:\Visual Studio\OperacoesSimples\OperacoesSimples\obj\Debug\OperacoesSimples.csproj.GenerateResource.cache
+D:\Visual Studio\OperacoesSimples\OperacoesSimples\obj\Debug\OperacoesSimples.csproj.CoreCompileInputs.cache
+D:\Visual Studio\OperacoesSimples\OperacoesSimples\bin\Debug\OperacoesSimples.exe.config
+D:\Visual Studio\OperacoesSimples\OperacoesSimples\bin\Debug\OperacoesSimples.exe
+D:\Visual Studio\OperacoesSimples\OperacoesSimples\bin\Debug\OperacoesSimples.pdb
+D:\Visual Studio\OperacoesSimples\OperacoesSimples\obj\Debug\OperacoesSimples.exe
+D:\Visual Studio\OperacoesSimples\OperacoesSimples\obj\Debug\OperacoesSimples.pdb
+D:\Visual Studio\OperacoesSimples\OperacoesSimples\obj\Debug\OperacoesSimples.exe.config
