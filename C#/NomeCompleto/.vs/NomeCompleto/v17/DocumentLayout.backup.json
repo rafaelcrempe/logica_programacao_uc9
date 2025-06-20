@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Visual Studio\\NomeCompleto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58D24C09-3AF7-41C5-B6F7-C9B12A4786E4}|NomeCompleto\\NomeCompleto.csproj|d:\\visual studio\\nomecompleto\\nomecompleto\\nomecompleto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{58D24C09-3AF7-41C5-B6F7-C9B12A4786E4}|NomeCompleto\\NomeCompleto.csproj|solutionrelative:nomecompleto\\nomecompleto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D24C09-3AF7-41C5-B6F7-C9B12A4786E4}|NomeCompleto\\NomeCompleto.csproj|d:\\visual studio\\nomecompleto\\nomecompleto\\nomecompleto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D24C09-3AF7-41C5-B6F7-C9B12A4786E4}|NomeCompleto\\NomeCompleto.csproj|solutionrelative:nomecompleto\\nomecompleto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NomeCompleto.cs",
+              "DocumentMoniker": "D:\\Visual Studio\\NomeCompleto\\NomeCompleto\\NomeCompleto.cs",
+              "RelativeDocumentMoniker": "NomeCompleto\\NomeCompleto.cs",
+              "ToolTip": "D:\\Visual Studio\\NomeCompleto\\NomeCompleto\\NomeCompleto.cs",
+              "RelativeToolTip": "NomeCompleto\\NomeCompleto.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAvwBoAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T02:10:25.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NomeCompleto.cs [Design]",
+              "DocumentMoniker": "D:\\Visual Studio\\NomeCompleto\\NomeCompleto\\NomeCompleto.cs",
+              "RelativeDocumentMoniker": "NomeCompleto\\NomeCompleto.cs",
+              "ToolTip": "D:\\Visual Studio\\NomeCompleto\\NomeCompleto\\NomeCompleto.cs [Design]",
+              "RelativeToolTip": "NomeCompleto\\NomeCompleto.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T02:07:10.158Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

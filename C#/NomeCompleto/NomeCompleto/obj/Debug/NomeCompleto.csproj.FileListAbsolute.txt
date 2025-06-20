@@ -1,0 +1,10 @@
+D:\Visual Studio\NomeCompleto\NomeCompleto\bin\Debug\NomeCompleto.exe.config
+D:\Visual Studio\NomeCompleto\NomeCompleto\bin\Debug\NomeCompleto.exe
+D:\Visual Studio\NomeCompleto\NomeCompleto\bin\Debug\NomeCompleto.pdb
+D:\Visual Studio\NomeCompleto\NomeCompleto\obj\Debug\NomeCompleto.csproj.AssemblyReference.cache
+D:\Visual Studio\NomeCompleto\NomeCompleto\obj\Debug\NomeCompleto.NomeCompleto.resources
+D:\Visual Studio\NomeCompleto\NomeCompleto\obj\Debug\NomeCompleto.Properties.Resources.resources
+D:\Visual Studio\NomeCompleto\NomeCompleto\obj\Debug\NomeCompleto.csproj.GenerateResource.cache
+D:\Visual Studio\NomeCompleto\NomeCompleto\obj\Debug\NomeCompleto.csproj.CoreCompileInputs.cache
+D:\Visual Studio\NomeCompleto\NomeCompleto\obj\Debug\NomeCompleto.exe
+D:\Visual Studio\NomeCompleto\NomeCompleto\obj\Debug\NomeCompleto.pdb
