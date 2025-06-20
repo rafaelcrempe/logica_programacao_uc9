@@ -1,0 +1,11 @@
+D:\Visual Studio\AlturaMedia\AlturaMedia\bin\Debug\AlturaMedia.exe.config
+D:\Visual Studio\AlturaMedia\AlturaMedia\bin\Debug\AlturaMedia.exe
+D:\Visual Studio\AlturaMedia\AlturaMedia\bin\Debug\AlturaMedia.pdb
+D:\Visual Studio\AlturaMedia\AlturaMedia\obj\Debug\AlturaMedia.csproj.AssemblyReference.cache
+D:\Visual Studio\AlturaMedia\AlturaMedia\obj\Debug\AlturaMedia.AlturaMedia.resources
+D:\Visual Studio\AlturaMedia\AlturaMedia\obj\Debug\AlturaMedia.Properties.Resources.resources
+D:\Visual Studio\AlturaMedia\AlturaMedia\obj\Debug\AlturaMedia.csproj.GenerateResource.cache
+D:\Visual Studio\AlturaMedia\AlturaMedia\obj\Debug\AlturaMedia.csproj.CoreCompileInputs.cache
+D:\Visual Studio\AlturaMedia\AlturaMedia\obj\Debug\AlturaMedia.exe
+D:\Visual Studio\AlturaMedia\AlturaMedia\obj\Debug\AlturaMedia.pdb
+D:\Visual Studio\AlturaMedia\AlturaMedia\obj\Debug\AlturaMedia.exe.config
