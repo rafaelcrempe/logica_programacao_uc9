@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rafael.ecrempe\\source\\repos\\Medias\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E45F32-DE64-441F-AD4B-1954363501A3}|Medias\\Medias.csproj|c:\\users\\rafael.ecrempe\\source\\repos\\medias\\medias\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E45F32-DE64-441F-AD4B-1954363501A3}|Medias\\Medias.csproj|solutionrelative:medias\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E45F32-DE64-441F-AD4B-1954363501A3}|Medias\\Medias.csproj|c:\\users\\rafael.ecrempe\\source\\repos\\medias\\medias\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E9E45F32-DE64-441F-AD4B-1954363501A3}|Medias\\Medias.csproj|solutionrelative:medias\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\rafael.ecrempe\\source\\repos\\Medias\\Medias\\frmPrincipal.cs",
+              "RelativeDocumentMoniker": "Medias\\frmPrincipal.cs",
+              "ToolTip": "C:\\Users\\rafael.ecrempe\\source\\repos\\Medias\\Medias\\frmPrincipal.cs",
+              "RelativeToolTip": "Medias\\frmPrincipal.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T17:03:48.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmPrincipal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rafael.ecrempe\\source\\repos\\Medias\\Medias\\frmPrincipal.cs",
+              "RelativeDocumentMoniker": "Medias\\frmPrincipal.cs",
+              "ToolTip": "C:\\Users\\rafael.ecrempe\\source\\repos\\Medias\\Medias\\frmPrincipal.cs [Design]",
+              "RelativeToolTip": "Medias\\frmPrincipal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T16:54:28.426Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

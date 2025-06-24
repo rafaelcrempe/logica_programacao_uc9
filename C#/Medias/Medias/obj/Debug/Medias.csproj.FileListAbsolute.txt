@@ -1,0 +1,10 @@
+C:\Users\rafael.ecrempe\source\repos\Medias\Medias\bin\Debug\Medias.exe.config
+C:\Users\rafael.ecrempe\source\repos\Medias\Medias\bin\Debug\Medias.exe
+C:\Users\rafael.ecrempe\source\repos\Medias\Medias\bin\Debug\Medias.pdb
+C:\Users\rafael.ecrempe\source\repos\Medias\Medias\obj\Debug\Medias.csproj.AssemblyReference.cache
+C:\Users\rafael.ecrempe\source\repos\Medias\Medias\obj\Debug\Medias.frmPrincipal.resources
+C:\Users\rafael.ecrempe\source\repos\Medias\Medias\obj\Debug\Medias.Properties.Resources.resources
+C:\Users\rafael.ecrempe\source\repos\Medias\Medias\obj\Debug\Medias.csproj.GenerateResource.cache
+C:\Users\rafael.ecrempe\source\repos\Medias\Medias\obj\Debug\Medias.csproj.CoreCompileInputs.cache
+C:\Users\rafael.ecrempe\source\repos\Medias\Medias\obj\Debug\Medias.exe
+C:\Users\rafael.ecrempe\source\repos\Medias\Medias\obj\Debug\Medias.pdb
