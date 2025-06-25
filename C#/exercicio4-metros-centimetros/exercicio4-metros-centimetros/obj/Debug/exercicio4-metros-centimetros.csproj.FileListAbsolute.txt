@@ -1,0 +1,10 @@
+C:\Users\rafael.ecrempe\source\repos\exercicio4-metros-centimetros\exercicio4-metros-centimetros\obj\Debug\exercicio4-metros-centimetros.csproj.AssemblyReference.cache
+C:\Users\rafael.ecrempe\source\repos\exercicio4-metros-centimetros\exercicio4-metros-centimetros\obj\Debug\exercicio4_metros_centimetros.frmPrincipal.resources
+C:\Users\rafael.ecrempe\source\repos\exercicio4-metros-centimetros\exercicio4-metros-centimetros\obj\Debug\exercicio4_metros_centimetros.Properties.Resources.resources
+C:\Users\rafael.ecrempe\source\repos\exercicio4-metros-centimetros\exercicio4-metros-centimetros\obj\Debug\exercicio4-metros-centimetros.csproj.GenerateResource.cache
+C:\Users\rafael.ecrempe\source\repos\exercicio4-metros-centimetros\exercicio4-metros-centimetros\obj\Debug\exercicio4-metros-centimetros.csproj.CoreCompileInputs.cache
+C:\Users\rafael.ecrempe\source\repos\exercicio4-metros-centimetros\exercicio4-metros-centimetros\bin\Debug\exercicio4-metros-centimetros.exe.config
+C:\Users\rafael.ecrempe\source\repos\exercicio4-metros-centimetros\exercicio4-metros-centimetros\bin\Debug\exercicio4-metros-centimetros.exe
+C:\Users\rafael.ecrempe\source\repos\exercicio4-metros-centimetros\exercicio4-metros-centimetros\bin\Debug\exercicio4-metros-centimetros.pdb
+C:\Users\rafael.ecrempe\source\repos\exercicio4-metros-centimetros\exercicio4-metros-centimetros\obj\Debug\exercicio4-metros-centimetros.exe
+C:\Users\rafael.ecrempe\source\repos\exercicio4-metros-centimetros\exercicio4-metros-centimetros\obj\Debug\exercicio4-metros-centimetros.pdb

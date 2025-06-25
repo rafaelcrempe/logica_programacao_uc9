@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rafael.ecrempe\\source\\repos\\exercicio5-calculo-area\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E5896A1-520F-46B4-B7A4-2BEAC24AE4C2}|exercicio5-calculo-area\\exercicio5-calculo-area.csproj|c:\\users\\rafael.ecrempe\\source\\repos\\exercicio5-calculo-area\\exercicio5-calculo-area\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E5896A1-520F-46B4-B7A4-2BEAC24AE4C2}|exercicio5-calculo-area\\exercicio5-calculo-area.csproj|solutionrelative:exercicio5-calculo-area\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E5896A1-520F-46B4-B7A4-2BEAC24AE4C2}|exercicio5-calculo-area\\exercicio5-calculo-area.csproj|c:\\users\\rafael.ecrempe\\source\\repos\\exercicio5-calculo-area\\exercicio5-calculo-area\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E5896A1-520F-46B4-B7A4-2BEAC24AE4C2}|exercicio5-calculo-area\\exercicio5-calculo-area.csproj|solutionrelative:exercicio5-calculo-area\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\rafael.ecrempe\\source\\repos\\exercicio5-calculo-area\\exercicio5-calculo-area\\frmPrincipal.cs",
+              "RelativeDocumentMoniker": "exercicio5-calculo-area\\frmPrincipal.cs",
+              "ToolTip": "C:\\Users\\rafael.ecrempe\\source\\repos\\exercicio5-calculo-area\\exercicio5-calculo-area\\frmPrincipal.cs",
+              "RelativeToolTip": "exercicio5-calculo-area\\frmPrincipal.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAswB8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T18:18:08.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmPrincipal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rafael.ecrempe\\source\\repos\\exercicio5-calculo-area\\exercicio5-calculo-area\\frmPrincipal.cs",
+              "RelativeDocumentMoniker": "exercicio5-calculo-area\\frmPrincipal.cs",
+              "ToolTip": "C:\\Users\\rafael.ecrempe\\source\\repos\\exercicio5-calculo-area\\exercicio5-calculo-area\\frmPrincipal.cs [Design]",
+              "RelativeToolTip": "exercicio5-calculo-area\\frmPrincipal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T18:10:51.472Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

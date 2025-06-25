@@ -1,0 +1,10 @@
+C:\Users\rafael.ecrempe\source\repos\Ordenacao\Ordenacao\obj\Debug\Ordenacao.csproj.AssemblyReference.cache
+C:\Users\rafael.ecrempe\source\repos\Ordenacao\Ordenacao\obj\Debug\Ordenacao.Form1.resources
+C:\Users\rafael.ecrempe\source\repos\Ordenacao\Ordenacao\obj\Debug\Ordenacao.Properties.Resources.resources
+C:\Users\rafael.ecrempe\source\repos\Ordenacao\Ordenacao\obj\Debug\Ordenacao.csproj.GenerateResource.cache
+C:\Users\rafael.ecrempe\source\repos\Ordenacao\Ordenacao\obj\Debug\Ordenacao.csproj.CoreCompileInputs.cache
+C:\Users\rafael.ecrempe\source\repos\Ordenacao\Ordenacao\bin\Debug\Ordenacao.exe.config
+C:\Users\rafael.ecrempe\source\repos\Ordenacao\Ordenacao\bin\Debug\Ordenacao.exe
+C:\Users\rafael.ecrempe\source\repos\Ordenacao\Ordenacao\bin\Debug\Ordenacao.pdb
+C:\Users\rafael.ecrempe\source\repos\Ordenacao\Ordenacao\obj\Debug\Ordenacao.exe
+C:\Users\rafael.ecrempe\source\repos\Ordenacao\Ordenacao\obj\Debug\Ordenacao.pdb

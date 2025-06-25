@@ -1,0 +1,10 @@
+C:\Users\rafael.ecrempe\source\repos\exercicio5-calculo-area\exercicio5-calculo-area\bin\Debug\exercicio5-calculo-area.exe.config
+C:\Users\rafael.ecrempe\source\repos\exercicio5-calculo-area\exercicio5-calculo-area\bin\Debug\exercicio5-calculo-area.exe
+C:\Users\rafael.ecrempe\source\repos\exercicio5-calculo-area\exercicio5-calculo-area\bin\Debug\exercicio5-calculo-area.pdb
+C:\Users\rafael.ecrempe\source\repos\exercicio5-calculo-area\exercicio5-calculo-area\obj\Debug\exercicio5-calculo-area.csproj.AssemblyReference.cache
+C:\Users\rafael.ecrempe\source\repos\exercicio5-calculo-area\exercicio5-calculo-area\obj\Debug\exercicio5_calculo_area.frmPrincipal.resources
+C:\Users\rafael.ecrempe\source\repos\exercicio5-calculo-area\exercicio5-calculo-area\obj\Debug\exercicio5_calculo_area.Properties.Resources.resources
+C:\Users\rafael.ecrempe\source\repos\exercicio5-calculo-area\exercicio5-calculo-area\obj\Debug\exercicio5-calculo-area.csproj.GenerateResource.cache
+C:\Users\rafael.ecrempe\source\repos\exercicio5-calculo-area\exercicio5-calculo-area\obj\Debug\exercicio5-calculo-area.csproj.CoreCompileInputs.cache
+C:\Users\rafael.ecrempe\source\repos\exercicio5-calculo-area\exercicio5-calculo-area\obj\Debug\exercicio5-calculo-area.exe
+C:\Users\rafael.ecrempe\source\repos\exercicio5-calculo-area\exercicio5-calculo-area\obj\Debug\exercicio5-calculo-area.pdb

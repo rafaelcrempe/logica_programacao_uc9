@@ -1,0 +1,5 @@
+C:\Users\rafael.ecrempe\source\repos\exercicio7-imc\exercicio7-imc\obj\Debug\exercicio7-imc.csproj.AssemblyReference.cache
+C:\Users\rafael.ecrempe\source\repos\exercicio7-imc\exercicio7-imc\obj\Debug\exercicio7_imc.frmPrincipal.resources
+C:\Users\rafael.ecrempe\source\repos\exercicio7-imc\exercicio7-imc\obj\Debug\exercicio7_imc.Properties.Resources.resources
+C:\Users\rafael.ecrempe\source\repos\exercicio7-imc\exercicio7-imc\obj\Debug\exercicio7-imc.csproj.GenerateResource.cache
+C:\Users\rafael.ecrempe\source\repos\exercicio7-imc\exercicio7-imc\obj\Debug\exercicio7-imc.csproj.CoreCompileInputs.cache

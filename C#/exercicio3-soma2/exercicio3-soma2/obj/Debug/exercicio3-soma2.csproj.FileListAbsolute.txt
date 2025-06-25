@@ -1,0 +1,10 @@
+C:\Users\rafael.ecrempe\source\repos\exercicio3-soma2\exercicio3-soma2\bin\Debug\exercicio3-soma2.exe.config
+C:\Users\rafael.ecrempe\source\repos\exercicio3-soma2\exercicio3-soma2\bin\Debug\exercicio3-soma2.exe
+C:\Users\rafael.ecrempe\source\repos\exercicio3-soma2\exercicio3-soma2\bin\Debug\exercicio3-soma2.pdb
+C:\Users\rafael.ecrempe\source\repos\exercicio3-soma2\exercicio3-soma2\obj\Debug\exercicio3-soma2.csproj.AssemblyReference.cache
+C:\Users\rafael.ecrempe\source\repos\exercicio3-soma2\exercicio3-soma2\obj\Debug\exercicio3_soma2.Form1.resources
+C:\Users\rafael.ecrempe\source\repos\exercicio3-soma2\exercicio3-soma2\obj\Debug\exercicio3_soma2.Properties.Resources.resources
+C:\Users\rafael.ecrempe\source\repos\exercicio3-soma2\exercicio3-soma2\obj\Debug\exercicio3-soma2.csproj.GenerateResource.cache
+C:\Users\rafael.ecrempe\source\repos\exercicio3-soma2\exercicio3-soma2\obj\Debug\exercicio3-soma2.csproj.CoreCompileInputs.cache
+C:\Users\rafael.ecrempe\source\repos\exercicio3-soma2\exercicio3-soma2\obj\Debug\exercicio3-soma2.exe
+C:\Users\rafael.ecrempe\source\repos\exercicio3-soma2\exercicio3-soma2\obj\Debug\exercicio3-soma2.pdb

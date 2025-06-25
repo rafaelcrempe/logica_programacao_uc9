@@ -1,0 +1,10 @@
+C:\Users\rafael.ecrempe\source\repos\exercicio6-calculosalario\exercicio6-calculosalario\bin\Debug\exercicio6-calculosalario.exe.config
+C:\Users\rafael.ecrempe\source\repos\exercicio6-calculosalario\exercicio6-calculosalario\bin\Debug\exercicio6-calculosalario.exe
+C:\Users\rafael.ecrempe\source\repos\exercicio6-calculosalario\exercicio6-calculosalario\bin\Debug\exercicio6-calculosalario.pdb
+C:\Users\rafael.ecrempe\source\repos\exercicio6-calculosalario\exercicio6-calculosalario\obj\Debug\exercicio6-calculosalario.csproj.AssemblyReference.cache
+C:\Users\rafael.ecrempe\source\repos\exercicio6-calculosalario\exercicio6-calculosalario\obj\Debug\exercicio6_calculosalario.Form1.resources
+C:\Users\rafael.ecrempe\source\repos\exercicio6-calculosalario\exercicio6-calculosalario\obj\Debug\exercicio6_calculosalario.Properties.Resources.resources
+C:\Users\rafael.ecrempe\source\repos\exercicio6-calculosalario\exercicio6-calculosalario\obj\Debug\exercicio6-calculosalario.csproj.GenerateResource.cache
+C:\Users\rafael.ecrempe\source\repos\exercicio6-calculosalario\exercicio6-calculosalario\obj\Debug\exercicio6-calculosalario.csproj.CoreCompileInputs.cache
+C:\Users\rafael.ecrempe\source\repos\exercicio6-calculosalario\exercicio6-calculosalario\obj\Debug\exercicio6-calculosalario.exe
+C:\Users\rafael.ecrempe\source\repos\exercicio6-calculosalario\exercicio6-calculosalario\obj\Debug\exercicio6-calculosalario.pdb
