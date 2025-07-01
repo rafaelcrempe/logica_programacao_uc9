@@ -1,0 +1,10 @@
+C:\Users\rafael.ecrempe\source\repos\exercicio8-milhas-em-kms\exercicio8-milhas-em-kms\obj\Debug\exercicio8-milhas-em-kms.csproj.AssemblyReference.cache
+C:\Users\rafael.ecrempe\source\repos\exercicio8-milhas-em-kms\exercicio8-milhas-em-kms\obj\Debug\exercicio8_milhas_em_kms.frmPrincipal.resources
+C:\Users\rafael.ecrempe\source\repos\exercicio8-milhas-em-kms\exercicio8-milhas-em-kms\obj\Debug\exercicio8_milhas_em_kms.Properties.Resources.resources
+C:\Users\rafael.ecrempe\source\repos\exercicio8-milhas-em-kms\exercicio8-milhas-em-kms\obj\Debug\exercicio8-milhas-em-kms.csproj.GenerateResource.cache
+C:\Users\rafael.ecrempe\source\repos\exercicio8-milhas-em-kms\exercicio8-milhas-em-kms\obj\Debug\exercicio8-milhas-em-kms.csproj.CoreCompileInputs.cache
+C:\Users\rafael.ecrempe\source\repos\exercicio8-milhas-em-kms\exercicio8-milhas-em-kms\bin\Debug\exercicio8-milhas-em-kms.exe.config
+C:\Users\rafael.ecrempe\source\repos\exercicio8-milhas-em-kms\exercicio8-milhas-em-kms\bin\Debug\exercicio8-milhas-em-kms.exe
+C:\Users\rafael.ecrempe\source\repos\exercicio8-milhas-em-kms\exercicio8-milhas-em-kms\bin\Debug\exercicio8-milhas-em-kms.pdb
+C:\Users\rafael.ecrempe\source\repos\exercicio8-milhas-em-kms\exercicio8-milhas-em-kms\obj\Debug\exercicio8-milhas-em-kms.exe
+C:\Users\rafael.ecrempe\source\repos\exercicio8-milhas-em-kms\exercicio8-milhas-em-kms\obj\Debug\exercicio8-milhas-em-kms.pdb

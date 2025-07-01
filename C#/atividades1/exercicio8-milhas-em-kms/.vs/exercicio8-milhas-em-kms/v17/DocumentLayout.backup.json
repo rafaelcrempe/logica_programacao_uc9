@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rafael.ecrempe\\source\\repos\\exercicio8-milhas-em-kms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECD01F95-CB52-41B3-9119-F97A31A960E1}|exercicio8-milhas-em-kms\\exercicio8-milhas-em-kms.csproj|c:\\users\\rafael.ecrempe\\source\\repos\\exercicio8-milhas-em-kms\\exercicio8-milhas-em-kms\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECD01F95-CB52-41B3-9119-F97A31A960E1}|exercicio8-milhas-em-kms\\exercicio8-milhas-em-kms.csproj|solutionrelative:exercicio8-milhas-em-kms\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECD01F95-CB52-41B3-9119-F97A31A960E1}|exercicio8-milhas-em-kms\\exercicio8-milhas-em-kms.csproj|c:\\users\\rafael.ecrempe\\source\\repos\\exercicio8-milhas-em-kms\\exercicio8-milhas-em-kms\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ECD01F95-CB52-41B3-9119-F97A31A960E1}|exercicio8-milhas-em-kms\\exercicio8-milhas-em-kms.csproj|solutionrelative:exercicio8-milhas-em-kms\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\rafael.ecrempe\\source\\repos\\exercicio8-milhas-em-kms\\exercicio8-milhas-em-kms\\frmPrincipal.cs",
+              "RelativeDocumentMoniker": "exercicio8-milhas-em-kms\\frmPrincipal.cs",
+              "ToolTip": "C:\\Users\\rafael.ecrempe\\source\\repos\\exercicio8-milhas-em-kms\\exercicio8-milhas-em-kms\\frmPrincipal.cs",
+              "RelativeToolTip": "exercicio8-milhas-em-kms\\frmPrincipal.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAIAwwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T16:46:19.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmPrincipal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rafael.ecrempe\\source\\repos\\exercicio8-milhas-em-kms\\exercicio8-milhas-em-kms\\frmPrincipal.cs",
+              "RelativeDocumentMoniker": "exercicio8-milhas-em-kms\\frmPrincipal.cs",
+              "ToolTip": "C:\\Users\\rafael.ecrempe\\source\\repos\\exercicio8-milhas-em-kms\\exercicio8-milhas-em-kms\\frmPrincipal.cs [Design]",
+              "RelativeToolTip": "exercicio8-milhas-em-kms\\frmPrincipal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T16:41:37.639Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
