@@ -1,0 +1,14 @@
+C:\Users\rafael.ecrempe\source\repos\exercicio15-lucro-loja\exercicio15-lucro-loja\bin\Debug\net8.0\exercicio15-lucro-loja.exe
+C:\Users\rafael.ecrempe\source\repos\exercicio15-lucro-loja\exercicio15-lucro-loja\bin\Debug\net8.0\exercicio15-lucro-loja.deps.json
+C:\Users\rafael.ecrempe\source\repos\exercicio15-lucro-loja\exercicio15-lucro-loja\bin\Debug\net8.0\exercicio15-lucro-loja.runtimeconfig.json
+C:\Users\rafael.ecrempe\source\repos\exercicio15-lucro-loja\exercicio15-lucro-loja\bin\Debug\net8.0\exercicio15-lucro-loja.dll
+C:\Users\rafael.ecrempe\source\repos\exercicio15-lucro-loja\exercicio15-lucro-loja\bin\Debug\net8.0\exercicio15-lucro-loja.pdb
+C:\Users\rafael.ecrempe\source\repos\exercicio15-lucro-loja\exercicio15-lucro-loja\obj\Debug\net8.0\exercicio15-lucro-loja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael.ecrempe\source\repos\exercicio15-lucro-loja\exercicio15-lucro-loja\obj\Debug\net8.0\exercicio15-lucro-loja.AssemblyInfoInputs.cache
+C:\Users\rafael.ecrempe\source\repos\exercicio15-lucro-loja\exercicio15-lucro-loja\obj\Debug\net8.0\exercicio15-lucro-loja.AssemblyInfo.cs
+C:\Users\rafael.ecrempe\source\repos\exercicio15-lucro-loja\exercicio15-lucro-loja\obj\Debug\net8.0\exercicio15-lucro-loja.csproj.CoreCompileInputs.cache
+C:\Users\rafael.ecrempe\source\repos\exercicio15-lucro-loja\exercicio15-lucro-loja\obj\Debug\net8.0\exercicio15-lucro-loja.dll
+C:\Users\rafael.ecrempe\source\repos\exercicio15-lucro-loja\exercicio15-lucro-loja\obj\Debug\net8.0\refint\exercicio15-lucro-loja.dll
+C:\Users\rafael.ecrempe\source\repos\exercicio15-lucro-loja\exercicio15-lucro-loja\obj\Debug\net8.0\exercicio15-lucro-loja.pdb
+C:\Users\rafael.ecrempe\source\repos\exercicio15-lucro-loja\exercicio15-lucro-loja\obj\Debug\net8.0\exercicio15-lucro-loja.genruntimeconfig.cache
+C:\Users\rafael.ecrempe\source\repos\exercicio15-lucro-loja\exercicio15-lucro-loja\obj\Debug\net8.0\ref\exercicio15-lucro-loja.dll

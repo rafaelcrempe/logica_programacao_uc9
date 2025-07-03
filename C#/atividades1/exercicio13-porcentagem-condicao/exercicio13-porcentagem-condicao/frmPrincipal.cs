@@ -19,20 +19,21 @@ namespace exercicio13_porcentagem_condicao
 
         private void btnCalcular_Click(object sender, EventArgs e)
         {
-            int turmaC = 60;
-            int turmaD = 20;
-            int totalTurmas = 80;
+            double turmaC = 60;
+            double turmaD = 20;
+            double totalTurmas = 80;
 
-            decimal reprov_turmaC = Convert.ToDecimal(txtPctReprovadosC.Text) / 100;
-            decimal reprov_turmaD = Convert.ToDecimal(txtPctReprovadosD.Text) / 100;
+            double reprov_turmaC = Convert.ToDouble(txtPctReprovadosC.Text) / 100;
+            double reprov_turmaD = Convert.ToDouble(txtPctReprovadosD.Text) / 100;
 
-            txtNumReprovadosC.Text = (reprov_turmaC * turmaC).ToString();
-            txtNumReprovadosD.Text = (reprov_turmaD * turmaD).ToString();
+            double numReprovadosC = reprov_turmaC * turmaC;
 
-            int numReprovadosC = Convert.ToInt32(txtNumReprovadosC.Text);
-            int numReprovadosD = Convert.ToInt32(txtNumReprovadosD.Text);
+            double numReprovadosD = reprov_turmaD * turmaD;
 
-            int totalReprovados = ((numReprovadosC + numReprovadosD) * 100) / totalTurmas;
+            txtNumReprovadosC.Text = numReprovadosC.ToString();
+            txtNumReprovadosD.Text = numReprovadosD.ToString();
+
+            double totalReprovados = ((numReprovadosC + numReprovadosD) * 100) / totalTurmas;
 
             txtTotalReprovados.Text = totalReprovados.ToString();
         }

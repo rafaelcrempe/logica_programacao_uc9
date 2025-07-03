@@ -1,0 +1,10 @@
+C:\Users\rafael.ecrempe\source\repos\exercicio16-decomposicao\exercicio16-decomposicao\bin\Debug\exercicio16-decomposicao.exe.config
+C:\Users\rafael.ecrempe\source\repos\exercicio16-decomposicao\exercicio16-decomposicao\bin\Debug\exercicio16-decomposicao.exe
+C:\Users\rafael.ecrempe\source\repos\exercicio16-decomposicao\exercicio16-decomposicao\bin\Debug\exercicio16-decomposicao.pdb
+C:\Users\rafael.ecrempe\source\repos\exercicio16-decomposicao\exercicio16-decomposicao\obj\Debug\exercicio16-decomposicao.csproj.AssemblyReference.cache
+C:\Users\rafael.ecrempe\source\repos\exercicio16-decomposicao\exercicio16-decomposicao\obj\Debug\exercicio16_decomposicao.frmPrincipal.resources
+C:\Users\rafael.ecrempe\source\repos\exercicio16-decomposicao\exercicio16-decomposicao\obj\Debug\exercicio16_decomposicao.Properties.Resources.resources
+C:\Users\rafael.ecrempe\source\repos\exercicio16-decomposicao\exercicio16-decomposicao\obj\Debug\exercicio16-decomposicao.csproj.GenerateResource.cache
+C:\Users\rafael.ecrempe\source\repos\exercicio16-decomposicao\exercicio16-decomposicao\obj\Debug\exercicio16-decomposicao.csproj.CoreCompileInputs.cache
+C:\Users\rafael.ecrempe\source\repos\exercicio16-decomposicao\exercicio16-decomposicao\obj\Debug\exercicio16-decomposicao.exe
+C:\Users\rafael.ecrempe\source\repos\exercicio16-decomposicao\exercicio16-decomposicao\obj\Debug\exercicio16-decomposicao.pdb

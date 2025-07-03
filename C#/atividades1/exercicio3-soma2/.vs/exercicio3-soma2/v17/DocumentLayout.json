@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\rafael.ecrempe\\source\\repos\\exercicio3-soma2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{75D1DF77-F391-4E66-B87E-22C188582C22}|exercicio3-soma2\\exercicio3-soma2.csproj|c:\\users\\rafael.ecrempe\\source\\repos\\exercicio3-soma2\\exercicio3-soma2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{75D1DF77-F391-4E66-B87E-22C188582C22}|exercicio3-soma2\\exercicio3-soma2.csproj|solutionrelative:exercicio3-soma2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{75D1DF77-F391-4E66-B87E-22C188582C22}|exercicio3-soma2\\exercicio3-soma2.csproj|C:\\Users\\rafael.ecrempe\\source\\repos\\exercicio3-soma2\\exercicio3-soma2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75D1DF77-F391-4E66-B87E-22C188582C22}|exercicio3-soma2\\exercicio3-soma2.csproj|solutionrelative:exercicio3-soma2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75D1DF77-F391-4E66-B87E-22C188582C22}|exercicio3-soma2\\exercicio3-soma2.csproj|c:\\users\\rafael.ecrempe\\source\\repos\\exercicio3-soma2\\exercicio3-soma2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75D1DF77-F391-4E66-B87E-22C188582C22}|exercicio3-soma2\\exercicio3-soma2.csproj|solutionrelative:exercicio3-soma2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{75D1DF77-F391-4E66-B87E-22C188582C22}|exercicio3-soma2\\exercicio3-soma2.csproj|c:\\users\\rafael.ecrempe\\source\\repos\\exercicio3-soma2\\exercicio3-soma2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{75D1DF77-F391-4E66-B87E-22C188582C22}|exercicio3-soma2\\exercicio3-soma2.csproj|solutionrelative:exercicio3-soma2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\rafael.ecrempe\\source\\repos\\exercicio3-soma2\\exercicio3-soma2\\Form1.cs",
               "RelativeDocumentMoniker": "exercicio3-soma2\\Form1.cs",
@@ -35,7 +35,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\rafael.ecrempe\\source\\repos\\exercicio3-soma2\\exercicio3-soma2\\Form1.cs",
               "RelativeDocumentMoniker": "exercicio3-soma2\\Form1.cs",
