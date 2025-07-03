@@ -1,0 +1,10 @@
+D:\Visual Studio\exercicio13-porcentagem-condicao\exercicio13-porcentagem-condicao\bin\Debug\exercicio13-porcentagem-condicao.exe.config
+D:\Visual Studio\exercicio13-porcentagem-condicao\exercicio13-porcentagem-condicao\bin\Debug\exercicio13-porcentagem-condicao.exe
+D:\Visual Studio\exercicio13-porcentagem-condicao\exercicio13-porcentagem-condicao\bin\Debug\exercicio13-porcentagem-condicao.pdb
+D:\Visual Studio\exercicio13-porcentagem-condicao\exercicio13-porcentagem-condicao\obj\Debug\exercicio13-porcentagem-condicao.csproj.AssemblyReference.cache
+D:\Visual Studio\exercicio13-porcentagem-condicao\exercicio13-porcentagem-condicao\obj\Debug\exercicio13_porcentagem_condicao.frmPrincipal.resources
+D:\Visual Studio\exercicio13-porcentagem-condicao\exercicio13-porcentagem-condicao\obj\Debug\exercicio13_porcentagem_condicao.Properties.Resources.resources
+D:\Visual Studio\exercicio13-porcentagem-condicao\exercicio13-porcentagem-condicao\obj\Debug\exercicio13-porcentagem-condicao.csproj.GenerateResource.cache
+D:\Visual Studio\exercicio13-porcentagem-condicao\exercicio13-porcentagem-condicao\obj\Debug\exercicio13-porcentagem-condicao.csproj.CoreCompileInputs.cache
+D:\Visual Studio\exercicio13-porcentagem-condicao\exercicio13-porcentagem-condicao\obj\Debug\exercicio13-porcentagem-condicao.exe
+D:\Visual Studio\exercicio13-porcentagem-condicao\exercicio13-porcentagem-condicao\obj\Debug\exercicio13-porcentagem-condicao.pdb
