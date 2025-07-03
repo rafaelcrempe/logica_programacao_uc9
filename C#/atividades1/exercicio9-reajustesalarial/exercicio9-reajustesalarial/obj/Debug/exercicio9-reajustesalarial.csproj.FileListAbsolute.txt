@@ -1,0 +1,11 @@
+D:\Visual Studio\exercicio9-reajustesalarial\exercicio9-reajustesalarial\bin\Debug\exercicio9-reajustesalarial.exe.config
+D:\Visual Studio\exercicio9-reajustesalarial\exercicio9-reajustesalarial\bin\Debug\exercicio9-reajustesalarial.exe
+D:\Visual Studio\exercicio9-reajustesalarial\exercicio9-reajustesalarial\bin\Debug\exercicio9-reajustesalarial.pdb
+D:\Visual Studio\exercicio9-reajustesalarial\exercicio9-reajustesalarial\obj\Debug\exercicio9-reajustesalarial.csproj.AssemblyReference.cache
+D:\Visual Studio\exercicio9-reajustesalarial\exercicio9-reajustesalarial\obj\Debug\exercicio9_reajustesalarial.frmPrincipal.resources
+D:\Visual Studio\exercicio9-reajustesalarial\exercicio9-reajustesalarial\obj\Debug\exercicio9_reajustesalarial.Properties.Resources.resources
+D:\Visual Studio\exercicio9-reajustesalarial\exercicio9-reajustesalarial\obj\Debug\exercicio9-reajustesalarial.csproj.GenerateResource.cache
+D:\Visual Studio\exercicio9-reajustesalarial\exercicio9-reajustesalarial\obj\Debug\exercicio9-reajustesalarial.csproj.CoreCompileInputs.cache
+D:\Visual Studio\exercicio9-reajustesalarial\exercicio9-reajustesalarial\obj\Debug\exercicio9-reajustesalarial.exe
+D:\Visual Studio\exercicio9-reajustesalarial\exercicio9-reajustesalarial\obj\Debug\exercicio9-reajustesalarial.pdb
+D:\Visual Studio\exercicio9-reajustesalarial\exercicio9-reajustesalarial\obj\Debug\exercicio9-reajustesalarial.exe.config

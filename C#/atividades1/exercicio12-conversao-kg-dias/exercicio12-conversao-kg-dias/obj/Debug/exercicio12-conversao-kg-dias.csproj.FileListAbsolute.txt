@@ -1,0 +1,10 @@
+D:\Visual Studio\exercicio12-conversao-kg-dias\exercicio12-conversao-kg-dias\bin\Debug\exercicio12-conversao-kg-dias.exe.config
+D:\Visual Studio\exercicio12-conversao-kg-dias\exercicio12-conversao-kg-dias\bin\Debug\exercicio12-conversao-kg-dias.exe
+D:\Visual Studio\exercicio12-conversao-kg-dias\exercicio12-conversao-kg-dias\bin\Debug\exercicio12-conversao-kg-dias.pdb
+D:\Visual Studio\exercicio12-conversao-kg-dias\exercicio12-conversao-kg-dias\obj\Debug\exercicio12-conversao-kg-dias.csproj.AssemblyReference.cache
+D:\Visual Studio\exercicio12-conversao-kg-dias\exercicio12-conversao-kg-dias\obj\Debug\exercicio12_conversao_kg_dias.frmPrincipal.resources
+D:\Visual Studio\exercicio12-conversao-kg-dias\exercicio12-conversao-kg-dias\obj\Debug\exercicio12_conversao_kg_dias.Properties.Resources.resources
+D:\Visual Studio\exercicio12-conversao-kg-dias\exercicio12-conversao-kg-dias\obj\Debug\exercicio12-conversao-kg-dias.csproj.GenerateResource.cache
+D:\Visual Studio\exercicio12-conversao-kg-dias\exercicio12-conversao-kg-dias\obj\Debug\exercicio12-conversao-kg-dias.csproj.CoreCompileInputs.cache
+D:\Visual Studio\exercicio12-conversao-kg-dias\exercicio12-conversao-kg-dias\obj\Debug\exercicio12-conversao-kg-dias.exe
+D:\Visual Studio\exercicio12-conversao-kg-dias\exercicio12-conversao-kg-dias\obj\Debug\exercicio12-conversao-kg-dias.pdb

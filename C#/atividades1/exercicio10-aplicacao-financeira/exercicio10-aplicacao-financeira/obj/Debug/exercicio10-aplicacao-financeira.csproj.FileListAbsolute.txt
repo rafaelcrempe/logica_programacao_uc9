@@ -1,0 +1,11 @@
+D:\Visual Studio\exercicio10-aplicacao-financeira\exercicio10-aplicacao-financeira\obj\Debug\exercicio10-aplicacao-financeira.csproj.AssemblyReference.cache
+D:\Visual Studio\exercicio10-aplicacao-financeira\exercicio10-aplicacao-financeira\obj\Debug\exercicio10_aplicacao_financeira.frmPrincipal.resources
+D:\Visual Studio\exercicio10-aplicacao-financeira\exercicio10-aplicacao-financeira\obj\Debug\exercicio10_aplicacao_financeira.Properties.Resources.resources
+D:\Visual Studio\exercicio10-aplicacao-financeira\exercicio10-aplicacao-financeira\obj\Debug\exercicio10-aplicacao-financeira.csproj.GenerateResource.cache
+D:\Visual Studio\exercicio10-aplicacao-financeira\exercicio10-aplicacao-financeira\obj\Debug\exercicio10-aplicacao-financeira.csproj.CoreCompileInputs.cache
+D:\Visual Studio\exercicio10-aplicacao-financeira\exercicio10-aplicacao-financeira\bin\Debug\exercicio10-aplicacao-financeira.exe.config
+D:\Visual Studio\exercicio10-aplicacao-financeira\exercicio10-aplicacao-financeira\bin\Debug\exercicio10-aplicacao-financeira.exe
+D:\Visual Studio\exercicio10-aplicacao-financeira\exercicio10-aplicacao-financeira\bin\Debug\exercicio10-aplicacao-financeira.pdb
+D:\Visual Studio\exercicio10-aplicacao-financeira\exercicio10-aplicacao-financeira\obj\Debug\exercicio10-aplicacao-financeira.exe
+D:\Visual Studio\exercicio10-aplicacao-financeira\exercicio10-aplicacao-financeira\obj\Debug\exercicio10-aplicacao-financeira.pdb
+D:\Visual Studio\exercicio10-aplicacao-financeira\exercicio10-aplicacao-financeira\obj\Debug\exercicio10-aplicacao-financeira.exe.config

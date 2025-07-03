@@ -1,0 +1,10 @@
+D:\Visual Studio\exercicio11-divisao-resto\exercicio11-divisao-resto\bin\Debug\exercicio11-divisao-resto.exe.config
+D:\Visual Studio\exercicio11-divisao-resto\exercicio11-divisao-resto\bin\Debug\exercicio11-divisao-resto.exe
+D:\Visual Studio\exercicio11-divisao-resto\exercicio11-divisao-resto\bin\Debug\exercicio11-divisao-resto.pdb
+D:\Visual Studio\exercicio11-divisao-resto\exercicio11-divisao-resto\obj\Debug\exercicio11-divisao-resto.csproj.AssemblyReference.cache
+D:\Visual Studio\exercicio11-divisao-resto\exercicio11-divisao-resto\obj\Debug\exercicio11_divisao_resto.frmPrincipal.resources
+D:\Visual Studio\exercicio11-divisao-resto\exercicio11-divisao-resto\obj\Debug\exercicio11_divisao_resto.Properties.Resources.resources
+D:\Visual Studio\exercicio11-divisao-resto\exercicio11-divisao-resto\obj\Debug\exercicio11-divisao-resto.csproj.GenerateResource.cache
+D:\Visual Studio\exercicio11-divisao-resto\exercicio11-divisao-resto\obj\Debug\exercicio11-divisao-resto.csproj.CoreCompileInputs.cache
+D:\Visual Studio\exercicio11-divisao-resto\exercicio11-divisao-resto\obj\Debug\exercicio11-divisao-resto.exe
+D:\Visual Studio\exercicio11-divisao-resto\exercicio11-divisao-resto\obj\Debug\exercicio11-divisao-resto.pdb
