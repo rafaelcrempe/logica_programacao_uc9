@@ -8,3 +8,13 @@ D:\Visual Studio\exercicio13-porcentagem-condicao\exercicio13-porcentagem-condic
 D:\Visual Studio\exercicio13-porcentagem-condicao\exercicio13-porcentagem-condicao\obj\Debug\exercicio13-porcentagem-condicao.csproj.CoreCompileInputs.cache
 D:\Visual Studio\exercicio13-porcentagem-condicao\exercicio13-porcentagem-condicao\obj\Debug\exercicio13-porcentagem-condicao.exe
 D:\Visual Studio\exercicio13-porcentagem-condicao\exercicio13-porcentagem-condicao\obj\Debug\exercicio13-porcentagem-condicao.pdb
+C:\Users\rafael.ecrempe\Desktop\logica_programacao_uc9\C#\atividades1\exercicio13-porcentagem-condicao\exercicio13-porcentagem-condicao\bin\Debug\exercicio13-porcentagem-condicao.exe.config
+C:\Users\rafael.ecrempe\Desktop\logica_programacao_uc9\C#\atividades1\exercicio13-porcentagem-condicao\exercicio13-porcentagem-condicao\bin\Debug\exercicio13-porcentagem-condicao.exe
+C:\Users\rafael.ecrempe\Desktop\logica_programacao_uc9\C#\atividades1\exercicio13-porcentagem-condicao\exercicio13-porcentagem-condicao\bin\Debug\exercicio13-porcentagem-condicao.pdb
+C:\Users\rafael.ecrempe\Desktop\logica_programacao_uc9\C#\atividades1\exercicio13-porcentagem-condicao\exercicio13-porcentagem-condicao\obj\Debug\exercicio13-porcentagem-condicao.csproj.AssemblyReference.cache
+C:\Users\rafael.ecrempe\Desktop\logica_programacao_uc9\C#\atividades1\exercicio13-porcentagem-condicao\exercicio13-porcentagem-condicao\obj\Debug\exercicio13_porcentagem_condicao.frmPrincipal.resources
+C:\Users\rafael.ecrempe\Desktop\logica_programacao_uc9\C#\atividades1\exercicio13-porcentagem-condicao\exercicio13-porcentagem-condicao\obj\Debug\exercicio13_porcentagem_condicao.Properties.Resources.resources
+C:\Users\rafael.ecrempe\Desktop\logica_programacao_uc9\C#\atividades1\exercicio13-porcentagem-condicao\exercicio13-porcentagem-condicao\obj\Debug\exercicio13-porcentagem-condicao.csproj.GenerateResource.cache
+C:\Users\rafael.ecrempe\Desktop\logica_programacao_uc9\C#\atividades1\exercicio13-porcentagem-condicao\exercicio13-porcentagem-condicao\obj\Debug\exercicio13-porcentagem-condicao.csproj.CoreCompileInputs.cache
+C:\Users\rafael.ecrempe\Desktop\logica_programacao_uc9\C#\atividades1\exercicio13-porcentagem-condicao\exercicio13-porcentagem-condicao\obj\Debug\exercicio13-porcentagem-condicao.exe
+C:\Users\rafael.ecrempe\Desktop\logica_programacao_uc9\C#\atividades1\exercicio13-porcentagem-condicao\exercicio13-porcentagem-condicao\obj\Debug\exercicio13-porcentagem-condicao.pdb
