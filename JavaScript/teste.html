@@ -1,0 +1,53 @@
+<script>
+
+    // Variáveis de controle
+    let posicao = 0
+    let chao = "_"
+    let personagem = "X"
+    let tamanho_mundo = 10
+    let moeda = "#"
+    let posicaoMoeda = 6
+
+
+
+    // Input das teclas
+    document.addEventListener("keyup", (e) => {
+        if (e.key == "ArrowRight") {
+            posicao++
+        } else if (e.key == "ArrowLeft") {
+            posicao--
+        }
+
+        console.clear()
+        desenhar()
+    })
+
+
+
+    // Loop do jogo
+    function desenhar() {
+
+        let mapa = ""
+        for (let i = 0; i < tamanho_mundo; i++) {
+            if (i == posicao) {
+                mapa += personagem
+            } else if (i == posicaoMoeda) {
+                mapa += moeda
+            } else {
+                mapa += chao
+            }
+            if (posicao == posicaoMoeda) {
+                console.log("Você coletou a moeda!")
+                posicaoMoeda = "_"
+            }
+        }
+        
+        console.log(mapa)
+    }
+
+
+
+
+
+
+</script>
