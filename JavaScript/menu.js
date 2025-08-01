@@ -24,12 +24,12 @@ function main() {
         main()
     } else if (opcao == "2") {
         listar()
-    } else if(opcao == "3"){
+    } else if (opcao == "3") {
         return
-    } else{
+    } else {
         console.log("Opção inválida!")
         setTimeout(() => { //Ativa um delay entre uma função e outra
-            main()            
+            main()
         }, 1500); // tempo deve ser definido em milisegundos
     }
 
@@ -43,10 +43,23 @@ function cadastro() {
 }
 
 function listar() {
-    if (nome == ""){
+    
+    let usuario_ativo
+
+    if (ativo) { // não preciso colocar == true pq o if já verifica isso
+        usuario_ativo = "SIM"
+    } else {
+        usuario_ativo = "NÃO"
+    }
+
+    if (nome == "") {
         console.log("Não existem usuários cadastrados")
-    } else if(nome != "")
-    console.log("\n---- LISTA DE USUÁRIOS ----")
-    console.log(`1. Nome: [${nome}] | Idade: [${idade}] | Ativo: [${ativo}]`)
+        setTimeout(() => { //Ativa um delay entre uma função e outra
+            main()
+        }, 1500);
+    } else if (nome != "") {
+        console.log("\n---- LISTA DE USUÁRIOS ----")
+        console.log(`1. Nome: [${nome}] | Idade: [${idade}] | Ativo: [${usuario_ativo}]`)
+    }
 }
 
