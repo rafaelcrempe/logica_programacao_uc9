@@ -22,6 +22,7 @@ function main() {
     if (opcao == "1") {
         cadastro()
         main()
+        return // importante colocar no fim do loop para evitar possíveis bugs na repetição
     } else if (opcao == "2") {
         listar()
     } else if (opcao == "3") {
@@ -35,7 +36,9 @@ function main() {
 
 }
 
+
 function cadastro() {
+    console.clear()
     console.log("\n---- CADASTRO ----")
     nome = prompt("Digite o seu nome: ")
     idade = parseInt(prompt("Digite a sua idade: "))
@@ -43,10 +46,11 @@ function cadastro() {
 }
 
 function listar() {
+    console.clear()
     
     let usuario_ativo
 
-    if (ativo) { // não preciso colocar == true pq o if já verifica isso
+    if (ativo) { // não precisa colocar == true pq o if já verifica isso
         usuario_ativo = "SIM"
     } else {
         usuario_ativo = "NÃO"
@@ -57,9 +61,12 @@ function listar() {
         setTimeout(() => { //Ativa um delay entre uma função e outra
             main()
         }, 1500);
+        return
     } else if (nome != "") {
         console.log("\n---- LISTA DE USUÁRIOS ----")
         console.log(`1. Nome: [${nome}] | Idade: [${idade}] | Ativo: [${usuario_ativo}]`)
+        let voltar = prompt("Aperte ENTER para voltar para o menu")
+        main()
     }
 }
 
