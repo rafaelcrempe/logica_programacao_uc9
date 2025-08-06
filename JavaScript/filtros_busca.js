@@ -65,6 +65,9 @@ function main() {
 }
 
 function ordemCrescente() {
+
+    console.clear()
+
     for (let i = 0; i < usuarios.length; i++) {
         console.log(`ID: [${usuarios[i].id}] | Nome: ${usuarios[i].nome} | Idade: ${usuarios[i].idade}`)
     }
@@ -73,6 +76,9 @@ function ordemCrescente() {
 }
 
 function ordemDecrescente() {
+
+    console.clear()
+
     for (let i = usuarios.length - 1; i >= 0; i--) {
         console.log(`ID: [${usuarios[i].id}] | Nome: ${usuarios[i].nome} | Idade: ${usuarios[i].idade}`)
     }
