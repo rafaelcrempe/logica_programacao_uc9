@@ -44,12 +44,12 @@ function main() {
 
         let nome = prompt("Digite o nome: ")
         let idade = prompt("Digite a idade: ")
-        let id = usuarios.length + 1
-        usuarios.push({nome, idade, id})
+        // let id = usuarios.length + 1
+        usuarios.push({nome: nome, idade: idade, id: usuarios.length+1})
         main()
     } else if (opcao == 2) {
 
-        for (let i = 0; i < usuarios.length; i++) { // for(let i = nomes.length; i > 0; i--) pode ser utilizado para mostrar de forma reversa
+        for (let i = 0; i < usuarios.length; i++) { // for (let i = usuarios.length -1 ; i >= 0; i--) pode ser utilizado para mostrar de forma reversa
             console.log(`ID: [${usuarios[i].id}] | Nome: ${usuarios[i].nome} | Idade: ${usuarios[i].idade}`)
         }
         prompt("Aperte ENTER para continuar")
@@ -69,9 +69,9 @@ function main() {
 }
 
 
-function alterar(posicao) {
+function alterar(indice) {
     let novo_nome = prompt("Digite o novo nome: ")
-    usuarios[posicao].nome = novo_nome
+    usuarios[indice].nome = novo_nome
     console.log("Nome alterado com sucesso")
     setTimeout(() => {
         main()
@@ -89,3 +89,4 @@ function exemplo() {
     nomes.push("Doce") // Adiciona um item no final do Array
     console.log(`O usuário ${nomes[1]} toma suco de ${nomes[2]} ${nomes[3]}`)
 }
+
