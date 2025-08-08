@@ -30,6 +30,11 @@ let usuarios = [
         id: 6,
         nome: "Bruxa do 71",
         idade: 300
+    },
+    {
+        id: 7,
+        nome: "Pópis",
+        idade: 9
     }
 ]
 
@@ -87,14 +92,20 @@ function ordemDecrescente() {
 }
 
 function buscarNome() {
+
     console.clear()
 
     let busca = prompt("Digite um nome para busca: ")
-    busca = busca.toLowerCase()
+    busca = busca.toLowerCase().replaceAll("ó", "o")
     let usuarioEncontrado = []
 
     for (let i = 0; i < usuarios.length; i++) {
-        if (usuarios[i].nome.toLowerCase().includes(busca)) {
+
+        let aux = usuarios[i].nome
+        aux = aux.toLowerCase()
+        aux = aux.replaceAll("ó", "o")
+
+        if (aux.includes(busca)) {
             usuarioEncontrado.push(usuarios[i])
         }
     }
